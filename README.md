@@ -39,7 +39,8 @@
 ## 📫 Kontakt
 - 🌐 Portfolio: *coming soon*  
 - 💼 LinkedIn: [linkedin.com/in/deinprofil](https://linkedin.com/in/deinprofil)  
-- 📧 E-Mail: [dein@mail.com](mailto:dein@mail.com)  
+- 📧 E-Mail: [CodinKorsa:Email](mailto:u9098785091@gmail.com
+)  
 
 ---
 
