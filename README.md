@@ -1,30 +1,46 @@
-# Hi, ich bin CodingKorsa 👋
+## 👋 Hi, ich bin CodingKorsa  
 
-💻 **Junhior Webdeveloper** | 🚀 Begeistert von modernen Web-Technologien  
+💻 **Fullstack Webentwickler** | 🌍 Fokus auf moderne, performante Weblösungen  
 
 ---
 
 ## 🚀 Über mich
-- 🌱 Ich vertiefe aktuell meine Skills in **Node.js** und **PHP**
-- 🔭 In meinen Repositories findest du kleine Projekte & Experimente
-- 📫 Kontakt: [LinkedIn](https://linkedin.com/in/deinprofil) | [E-Mail](mailto:dein@mail.com)
+- 🎯 Spezialisierung: **Webentwicklung mit Node.js & PHP**
+- 💡 Frontend: **HTML, CSS, JavaScript**  
+- ⚙️ Backend: **Node.js, PHP**  
+- 🔍 Aktuell im Fokus: **Clean Code, Skalierbare Architekturen, REST APIs**
+- 🤝 Offen für Kollaborationen & spannende Projekte
 
 ---
 
-## 🛠️ Technologien & Tools
-![HTML](https://img.shields.io/badge/Code-HTML-orange?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/Code-CSS-blue?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Backend-Node.js-339933?logo=node.js&logoColor=white)
-![PHP](https://img.shields.io/badge/Backend-PHP-777BB4?logo=php&logoColor=white)
+## 🛠️ Tech-Stack
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+</div>
 
 ---
 
-## 📊 GitHub Stats
-![CodingKorsa's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodingKorsa&show_icons=true&theme=radical)
+## 📊 GitHub Insights
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CodingKorsa&layout=compact&theme=radical)
+![CodingKorsa's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodingKorsa&show_icons=true&theme=tokyonight&hide_border=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodingKorsa&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
 
 ---
 
-⭐️ **Fun Fact:** Ich liebe es, Code aufzuräumen, bis er so clean ist wie frisch installierte VS Code-Extensions 😄
+## 📫 Kontakt
+- 🌐 Portfolio: *coming soon*  
+- 💼 LinkedIn: [linkedin.com/in/deinprofil](https://linkedin.com/in/deinprofil)  
+- 📧 E-Mail: [dein@mail.com](mailto:dein@mail.com)  
+
+---
+
+✨ *„Code sollte nicht nur funktionieren – er sollte lesbar, wartbar und elegant sein.“*
